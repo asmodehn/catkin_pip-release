@@ -1,3 +1,26 @@
+## catkin_pip (melodic) - 0.2.3-1
+
+The packages in the `catkin_pip` repository were released into the `melodic` distro by running `/home/alexv/.local/bin/bloom-release catkin_pip --track melodic --rosdistro melodic --new-track` on `Sat, 15 Jun 2019 09:05:48 -0000`
+
+The `catkin_pip` package was released.
+
+Version of package(s) in repository `catkin_pip`:
+
+- upstream repository: https://github.com/pyros-dev/catkin_pip.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## catkin_pip (indigo) - 0.2.3-0
 
 The packages in the `catkin_pip` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo catkin_pip` on `Fri, 11 Aug 2017 09:11:26 -0000`
